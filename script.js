@@ -215,8 +215,8 @@ function locomotiveAnimation() {
   }
   
   loadingAnimation();
-  // cursorAnimation();
-  // locomotiveAnimation();
+  cursorAnimation();
+  locomotiveAnimation();
   sheryAnimation();
   flagAnimation()
-  // footerAnimation()
+  footerAnimation()
